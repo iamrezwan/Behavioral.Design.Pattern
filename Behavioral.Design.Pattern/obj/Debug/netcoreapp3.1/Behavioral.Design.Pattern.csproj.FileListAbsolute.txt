@@ -1,0 +1,8 @@
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\bin\Debug\netcoreapp3.1\Behavioral.Design.Pattern.deps.json
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\bin\Debug\netcoreapp3.1\Behavioral.Design.Pattern.dll
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\bin\Debug\netcoreapp3.1\Behavioral.Design.Pattern.pdb
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\obj\Debug\netcoreapp3.1\Behavioral.Design.Pattern.csprojAssemblyReference.cache
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\obj\Debug\netcoreapp3.1\Behavioral.Design.Pattern.AssemblyInfoInputs.cache
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\obj\Debug\netcoreapp3.1\Behavioral.Design.Pattern.AssemblyInfo.cs
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\obj\Debug\netcoreapp3.1\Behavioral.Design.Pattern.dll
+E:\Hub\Behavioral.Design.Pattern\Behavioral.Design.Pattern\obj\Debug\netcoreapp3.1\Behavioral.Design.Pattern.pdb
