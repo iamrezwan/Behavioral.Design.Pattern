@@ -19,7 +19,7 @@ namespace Behavioral.Design.Pattern
         }
         public void Undo()
         {
-            Book = (_mementos[_mementos.Count - 1].GetCustomer());
+            Book = (_mementos[_mementos.Count - 1].GetBook());
             _mementos.RemoveAt(_mementos.Count - 1);
         }
     }

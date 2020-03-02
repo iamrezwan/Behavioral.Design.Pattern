@@ -4,14 +4,14 @@ namespace Behavioral.Design.Pattern
 {
     public class MementoForBookrEntity
     {
-        private Book _customer;
-        public MementoForBookrEntity(Book customer)
+        private Book _book;
+        public MementoForBookrEntity(Book book)
         {
-            _customer = customer.Clone();
+            _book = book.Clone();
         }
-        public Book GetCustomer()
+        public Book GetBook()
         {
-            return _customer;
+            return _book;
         }
     }
 }
