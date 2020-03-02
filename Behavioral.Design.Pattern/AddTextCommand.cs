@@ -10,8 +10,7 @@ namespace Behavioral.Design.Pattern
             Entries.Add(text);
         }
         public override void Undo(string text)
-        {
-            
+        {            
             var entrylength = Entries[Entries.Count - 1].Length;
             var totalLength = StringBuilder.Length;
             StringBuilder.Remove(totalLength - entrylength, entrylength);

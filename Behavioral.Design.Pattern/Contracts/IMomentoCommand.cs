@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Behavioral.Design.Pattern.Contracts
+﻿namespace Behavioral.Design.Pattern.Contracts
 {
     public interface IMomentoCommand
     {
